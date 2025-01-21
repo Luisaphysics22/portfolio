@@ -1,0 +1,94 @@
+{
+  "name": "Luisa L Teixeira",
+  "photo": "https://avatars.githubusercontent.com/u/150837960?v=4",
+  "job": "Full Stack Developer",
+  "location": "Warrington - UK",
+  "phone": "(21) 98001-5929",
+  "email": "luisalfisica@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "MySQL",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mysql.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      },
+      {
+        "name": "VSCode",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/vscode.png"
+      },
+      {
+        "name": "Docker",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (fluente)",
+    "Espanhol (iniciante)",
+    "Francês (iniciante)"
+  ],
+  "portfolio": [
+    {
+      "name": "Criação de uma Pokedex em JavaScript",
+      "url": "https://github.com/Luisaphysics22/luisa_pokedex.git",
+      "github": true
+    },
+    {
+      "name": "Criação de Jogo da Palavra Secreta em Python",
+      "url": "https://github.com/Luisaphysics22/secret_word_game.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Warehouse Operative / Jark Recruitment",
+      "period": "May 2024 - Jun 2024",
+      "description": "Organização, logística e trabalho em equipe."
+    },
+    {
+      "name": "Cashier / KFC UK",
+      "period": "Apr 2023 - Jan 2024",
+      "description": "Atendimento ao cliente, organização, trabalho em equipe e lidar com sistemas."
+    },
+    {
+      "name": "Teaching Intern /  Colégio QI",
+      "period": "Sep 2017 - Oct 2019",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas ensinando alunos a lidar com seus problemas de física."
+    }
+  ]
+}
