@@ -62,19 +62,19 @@
 }
 
 .information .job_role::before {
-    background-image: url('/assets/img/icons/job_role.svg');
+    background-image: url('../img/icons/job_role.svg');
 }
 
 .information .location::before {
-    background-image: url('/assets/img/icons/location.svg');
+    background-image: url('../img/icons/location.svg');
 }
 
 .information .phone::before {
-    background-image: url('/assets/img/icons/phone.svg');
+    background-image: url('../img/icons/phone.svg');
 }
 
 .information .email::before {
-    background-image: url('/assets/img/icons/email.svg');
+    background-image: url('../img/icons/email.svg');
 }
 
 @media only screen and (min-width: 768px) {
